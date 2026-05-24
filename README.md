@@ -159,10 +159,9 @@ The 4 customer segments capture meaningful differences in purchasing power, hous
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/bhupendra763/smartcart-clustering.git
+git clone https://github.com/bhupendra763/Smart_Cart_Clustering-Unsupervised-Machine-Learning-.git
 cd smartcart-clustering
 ```
-
 ### 2. Install dependencies
 
 ```bash
